@@ -2,5 +2,5 @@
 
 Hi, I'm master branch
 
-Hi, i'm secondBranch
+Hi, i'm secondBranch //make Confilct
 
