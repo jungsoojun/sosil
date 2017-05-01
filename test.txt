@@ -1,1 +1,6 @@
+#!/bin/bash
+
 Hi, I'm master branch
+
+Hi, i'm secondBranch
+
