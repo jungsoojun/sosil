@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Hi, I'm master branch
+Hi, I'm master branch //SecondBranch
 
 Hi, i'm secondBranch
 
